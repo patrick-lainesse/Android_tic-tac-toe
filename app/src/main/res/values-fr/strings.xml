@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gameover">Fin de la partie, vous pouvez en démarrer une nouvelle.</string>
+    <string name="xgagne">Bravo! X a gagné!</string>
+    <string name="ogagne">Dommage, O a gagné. Recommencer?</string>
+    <string name="nulle">Une nulle, c\'est nul. Recommencer?</string>
+    <string name="nouvpartie">RECOMMENCER</string>
+    <string name="sPolice">Police: Marta van Eck</string>
+    <string name="sFond">Fond d\'écran: Pixabay</string>
+    <string name="sCode">Code du jeu: Michel Reid</string>
+    <string name="sources">SOURCES</string>
+    <string name="auteur">Une application de Patrick Lainesse</string>
+    <string name="dejaJoue">Veuillez choisir un endroit libre pour jouer.</string>
+    <string name="welcome">Rebienvenue!</string>
+</resources>

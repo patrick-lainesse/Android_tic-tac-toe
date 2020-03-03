@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name" translatable="false">Tic tac toe</string>
+    <string name="gameover">Game over, you may start a new one.</string>
+    <string name="xgagne">Congratulations! X won!</string>
+    <string name="ogagne">Too bad, O won. Try again?</string>
+    <string name="nulle">Draw. Start over?</string>
+    <string name="nouvpartie">NEW GAME</string>
+    <string name="sCode">Game code: Michel Reid</string>
+    <string name="sFond">Background: Pixabay</string>
+    <string name="sPolice">Font: Marta van Eck</string>
+    <string name="sources">SOURCES</string>
+    <string name="auteur">An app by Patrick Lainesse</string>
+    <string name="dejaJoue">Please select an empty location to play.</string>
+    <string name="welcome">Welcome back!</string>
+</resources>
