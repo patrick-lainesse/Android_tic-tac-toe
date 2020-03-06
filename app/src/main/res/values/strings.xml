@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Tic tac toe</string>
+    <string name="app_name" translatable="false">TIC TAC TOE</string>
     <string name="gameover">Game over, you may start a new one.</string>
     <string name="xgagne">Congratulations! X won!</string>
     <string name="ogagne">Too bad, O won. Try again?</string>
