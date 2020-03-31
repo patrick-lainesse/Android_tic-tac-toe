@@ -8,7 +8,3 @@ Développée dans le cadre du cours d'introduction à la programmation Android, 
 **Développée pour une tablette Nexus 7.
 
 ![Alt text](preview_tictac.PNG "Aperçu du jeu")
-
-Reste à faire:
-- Message d'erreur de sélection d'espace valide lors de certains choix de position au troisième tour
-- Appliquer un design responsive
